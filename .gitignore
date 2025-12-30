@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+__pycache__/
+*.egg-info/
+
+# Build artifacts
+build/
+dist/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store

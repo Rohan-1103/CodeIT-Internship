@@ -1,0 +1,5 @@
+Creating virtual environment(inside parent directory): conda create -p venv python==3.13
+Creating virtual environment(as new directory): conda create -n venv python==3.13
+Activating the virtual environment: conda activate D:\CodeIT\venv
+--> requirements.txt        (requirements is an industry standard name)
+Executing requirements.txt: pip install -r requirements.txt         (-r -> read-mode)
